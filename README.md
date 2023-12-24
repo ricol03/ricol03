@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ricol03! >:3
-- 👀 I’m interested in programming, tech, gaming, anime and music.
-- 🌱 I’m currently learning HTML, CSS, JS, C and C#.
-- 📫 You can reach me on Discord. It's ricol03#4940.
+Hi, I’m @ricol03, computer engineering student in college. Interested in programming, tech, gaming, anime and music. Let me know if I'm doing mistakes, I'd love to have some guidance, specially with Git anf GitHub as a whole, as I don't know much as of yet. I’m currently learning HTML, CSS, JS, Java, C and more. Reach me on Discord if you wish, my name is the same as on here!
